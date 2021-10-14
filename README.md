@@ -1,2 +1,2 @@
-# prueba_lab
+# Ejercicios
 Esto es una prueba.
